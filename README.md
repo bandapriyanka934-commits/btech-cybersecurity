@@ -5,7 +5,7 @@ BTech Cybersecurity student at Malla Reddy University
 
 ## About this repository
 This repository contains:
--basics programming
+- basics programming language
 - Notes and concepts
 - Practice files
 
