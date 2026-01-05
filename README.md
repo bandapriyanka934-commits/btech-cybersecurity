@@ -1,2 +1,15 @@
-# btech-cybersecurity
-My btech cybersecurity learning and practice 
+# Cybersecurity Basics
+
+Hi 👋 I’m Priyanka  
+BTech Cybersecurity student at Malla Reddy University
+
+## About this repository
+This repository contains:
+- Cybersecurity basics
+- Notes and concepts
+- Practice files
+
+## Skills I am learning
+- Python
+- Networking
+- Git & GitHub
