@@ -5,7 +5,7 @@ BTech Cybersecurity student at Malla Reddy University
 
 ## About this repository
 This repository contains:
-- Cybersecurity basics
+-basics programming
 - Notes and concepts
 - Practice files
 
